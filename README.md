@@ -11,6 +11,11 @@
 - [一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif)
 - [前端工匠的 Blog](https://github.com/ljianshu/Blog)
 - [小生方勤的 Blog](https://juejin.im/user/5b6d656ef265da0f7c4ff4fd)
-- [鱼头哥的 Blog](https://blog.krissarea.com/)
+- [鱼头哥的 Blog](https://krissarea.gitee.io/blog/)
+- [桃园的 Blog](http://www.taoweng.site/)
+- [dendoink 的 Blog](https://juejin.im/user/585a2f52128fe10069ba1b95)
 ## 文章
+待补全。。。
 ## 书籍
+- [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
+- [忍者秘籍](https://book.douban.com/subject/30143702/)
