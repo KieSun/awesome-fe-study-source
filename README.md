@@ -5,6 +5,9 @@
 - [前端面试体系化整理](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [每周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
+- [前端算法面试相关](https://github.com/ConardLi/awesome-coding-js)
+## 优质仓库
+- [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 ## Blog
 - [作者的 Blog](https://github.com/KieSun/Dream)
 - [ConardLi 的 Blog](https://github.com/ConardLi/ConardLi.github.io)
