@@ -9,7 +9,13 @@
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
 - [前端算法面试相关](https://github.com/ConardLi/awesome-coding-js)
 ## 优质仓库
+- [React 源码解析](https://github.com/KieSun/react-interpretation)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+- [React + TS备忘录](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [H5 调试工具](https://github.com/wuchangming/spy-debugger)
+- [React/ApolloGraphQL/Node/Mongo 加上 TS 写的项目](https://github.com/TrillCyborg/fullstack)
+- [JavaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions)
+- [CSS tricks](https://github.com/QiShaoXuan/css_tricks)
 ## Blog
 - [作者的 Blog](https://github.com/KieSun/Dream)
 - [ConardLi 的 Blog](https://github.com/ConardLi/ConardLi.github.io)
@@ -23,8 +29,12 @@
 - [SHERlocked93的 Blog](https://github.com/SHERlocked93/blog)
 - [千古壹号的 Blog](https://github.com/qianguyihao/Web)
 - [jsliang的 Blog](https://github.com/LiangJunrong/document-library)
+- [前端农民工的 Blog](https://github.com/fouber/blog)
+
 ## 文章
 待补全。。。
 ## 书籍
 - [你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
 - [忍者秘籍](https://book.douban.com/subject/30143702/)
+- [CSS揭秘](https://book.douban.com/subject/26745943/)
+- [图解HTTP](https://book.douban.com/subject/25863515/)
