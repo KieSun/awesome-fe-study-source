@@ -1,8 +1,10 @@
 # awesome-fe-study-source
-> A curated awesome list of lists of FE study sources.
+
+加入前端学习小组，尽在公众号「[高级真好玩](https://camo.githubusercontent.com/55b742db5b977cb5c4744ac6830bc53f861fbdd0/68747470733a2f2f79636b2d313235343236333432322e636f732e61702d7368616e676861692e6d7971636c6f75642e636f6d2f626c6f672f323031392d30362d30312d3034323731362e6a7067)」！
 
 ## 面试相关
 - [前端面试体系化整理](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+- [前端面试每日一题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 - [每周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
 - [前端算法面试相关](https://github.com/ConardLi/awesome-coding-js)
@@ -17,6 +19,10 @@
 - [鱼头哥的 Blog](https://krissarea.gitee.io/blog/)
 - [桃园的 Blog](http://www.taoweng.site/)
 - [dendoink 的 Blog](https://juejin.im/user/585a2f52128fe10069ba1b95)
+- [木易杨的 Blog](https://github.com/yygmind/blog)
+- [SHERlocked93的 Blog](https://github.com/SHERlocked93/blog)
+- [千古壹号的 Blog](https://github.com/qianguyihao/Web)
+- [jsliang的 Blog](https://github.com/LiangJunrong/document-library)
 ## 文章
 待补全。。。
 ## 书籍
